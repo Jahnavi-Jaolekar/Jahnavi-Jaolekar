@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**Jahnavi-Jaolekar/Jahnavi-Jaolekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### Hi there 👋 I'am @jahnavijaolekar
 - 🧔 I am a data scientist.
 - 🔭 I’m currently working on Machine Learning projects
 - 🌱 I’m currently learning various machine learning techniques
